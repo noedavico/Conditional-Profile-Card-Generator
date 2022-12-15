@@ -56,7 +56,8 @@ $ git clone https://github.com/breatheco-de/exercise-conditional-profile-card.gi
 
 3. Instala los paquetes NPM (asegúrate de usar la última versión de node): `npm install`
 
-4. Corre el proyecto utilizando:  `npm run start`
+4. Corre el proyecto utilizando:  `
+`
 
 5. Actualiza la función `render` dentro del archivo `app.js`.
 
